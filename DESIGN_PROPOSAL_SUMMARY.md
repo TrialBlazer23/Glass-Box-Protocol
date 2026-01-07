@@ -211,7 +211,7 @@ This repository contains a **complete design proposal** including:
 
 ### For Implementers
 1. Study [ARCHITECTURE.md](ARCHITECTURE.md)
-2. Examine [/Standards/Synapse_Protocol/](Standards/Synapse_Protocol/)
+2. Examine [Standards/Synapse_Protocol/](Standards/Synapse_Protocol/)
 3. Follow [IMPLEMENTATION_ROADMAP.md](IMPLEMENTATION_ROADMAP.md) Phase 1
 
 ### For Safety & Ethics Reviewers
